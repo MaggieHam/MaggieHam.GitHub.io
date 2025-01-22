@@ -2,6 +2,11 @@ body{
 background-color:#FFC0CB;
 }
 
+#me {
+  <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="1501B9A9-A3C2-468C-8664-06CD8C66217C.jpeg" alt="1501B9A9-A3C2-468C-8664-06CD8C66217C.jpeg">
+</div>
+
 <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="image.jpg" alt="Centered Image">
+  <img src="1501B9A9-A3C2-468C-8664-06CD8C66217C.jpeg" alt="1501B9A9-A3C2-468C-8664-06CD8C66217C.jpeg">
 </div>
