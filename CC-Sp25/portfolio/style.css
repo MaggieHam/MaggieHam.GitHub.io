@@ -4,7 +4,6 @@ background-color:#FFC0CB;
 
 #me
 {
- <div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
-  <img src="D13A8629-38B4-4C6D-BE85-149EBE51E3DC.jpeg" alt="D13A8629-38B4-4C6D-BE85-149EBE51E3DC.jpeg">
-</div>
+<img src="image.jpg" alt="Centered Image" style="display: block; margin: auto;">
+
 }
