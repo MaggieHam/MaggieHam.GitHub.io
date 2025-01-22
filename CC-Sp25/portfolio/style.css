@@ -2,11 +2,6 @@ body{
 background-color:#FFC0CB;
 }
 
-#me{
-position:relative;
-  left:800px;
-}
-img{
-max-width:2in;
-max-height:2in;
-}
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+  <img src="image.jpg" alt="Centered Image">
+</div>
