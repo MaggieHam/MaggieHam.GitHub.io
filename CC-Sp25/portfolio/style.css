@@ -4,8 +4,8 @@ background-color:#FFC0CB;
 
 #me
 img {
-  max-width: 100%;
-  max-height: 500px; /* Limits the height */
+  max-width: 60%;
+  max-height: 120px; /* Limits the height */
   margin: 50 auto;
   display: block; /* Centers the image horizontally */
 }
